@@ -51,7 +51,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
-    SMART GOAL:
+    <u>SMART GOAL:</u>
     - Specific: 75% Average for CodeSpace Software Development course because I want to land a Junior Developer role by next year latest.
     - Measurable: Submit all challenges in the week and not the weekend so that I can ask questions in the coaching sessions. Submitting on time will assist with achieving the end goal, keeping track with lesson plan and google calendar. Goal: score 80% and above for challenges and aim for 80% for big projects.
     - Achievable: Currently, I am quite behind with my course work but there is still time to make up for it because we have only submitted 3 challenges and still have many left to do, including big projects which count the most.
@@ -60,8 +60,8 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations: Further my studies and specialise which will aid in a higher level salary and more job opportunities. Whether it be in Backend Development or Frontend Development. There are good courses at CodeSpace and AIE.
-    - Describe how these align with your interests and skills: CodeSpace has given me a good foundation on frontend development and abit of backend thus I have the basic skills which I can use as good foundation when specialising at another institution. 
+    - <u>Outline your long-term career aspirations:</u> Further my studies and specialise which will aid in a higher level salary and more job opportunities. Whether it be in Backend Development or Frontend Development. There are good courses at CodeSpace and AIE.
+    - <u>Describe how these align with your interests and skills:</u> CodeSpace has given me a good foundation on frontend development and abit of backend thus I have the basic skills which I can use as good foundation when specialising at another institution. 
 
 ### Part 4: Action Plan
 
@@ -72,8 +72,8 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - <u>Describe the preparations or groundwork necessary for your long-term aspirations:</u> I will need to achieve short-term goal and do well at CodeSpace, then land a Junior developer role which will provide financial aid in furthering my studies and specialising which in turn will allow more job opportunities and higher level salary.
+    - <u>Consider additional skills, experiences, or qualifications needed:</u> Qaulification at AIE or specialising qualification at CodeSpace.
 
 ### Part 5: Reflection on Challenges and Opportunities
 
