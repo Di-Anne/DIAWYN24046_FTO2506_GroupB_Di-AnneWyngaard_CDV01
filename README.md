@@ -34,18 +34,19 @@ By completing this reflection, you will gain a clearer understanding of your car
 2. **Interests and Values**:
     
     - <u>What interest me?</u> Its too soon to tell what interests me as the field of software development is broad (back-end, front-end, full-stack) and I have recently begun my journey in the Tech industry. But so far, my interest lies in creating simple web pages. I enjoy struggling and solving code for web pages because I can immediately see my creation come to life which is rewarding and encouriging. It is the oposite of monotonous work which I hate. The effort of solving gives me sort of a thrill; its a love-hate relationship. I enjoyed mathematics in high school and I see similarities with software development. But designing web pages with advanced CSS and layouts is quite complex for me and I dont enjoy it because I struggle with it alot and it becomes discouraging. However, I just started learning CSS thus my mind might change at a later stage once I get the hang of it after having practiced it abit more.
-    - <u>What values are important to me in a work environment?</u> I was diagnosed with ADHD and anxiety which I take medication for. So its very important for me to be in a workspace that is supportive, serene and empowering. It should be a workplace that is committed to employee well-being (mental and physical health).
+    - <u>What values are important to me in a work environment?</u> I was diagnosed with ADHD and anxiety which I take medication for. So its very important for me to be in a workspace that is supportive, serene and empowering. It should be a workplace that is committed to employee well-being (mental and physical health). I value an environment that embraces the growth-mindset. 
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - <u>Industries or roles you have researched:</u> Softserve is a company based in Gauteng piqued my interest.
+    - <u>Note any particular areas that piqued your interest.</u> They specialize in mobile app development, software application development and building websites and have work big companies like Nike, Discovery, and Total Sports.
+
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    - <u>How do these industries/ roles align with my skills, interests, and values?</U> <i>Softserve</i> piqued my interest because I will have an opportunity to iether go into mobile app development, software application development or building websites which is what I am learning at CodeSpace. After completing the course, I will have skills in HTML, CSS, and JavaScript which is needed to land a Junior Software Development role. I tend to hyperfocus as a result of my ADHD which can be a strength that can be used as a powerful tool for tackling complex problems in the Software Development role thus sometimes I tend to leave a piece of my soul on any work that I do. I am interested in creating web pages as I enjoy seeing my creation come to life in a beautiful layout. <i>Softserve</i> has good values which matches mine. Namely, Meraki which is japanese for leave a piece of your soul. They believe in striving for excellence in every project they do and have good reviews from clients for this value. They also value philotimo (japanese for deep love of community) and I strongly value a workspace that embodies this especially given my mental health. Another value is Kaizen (japanese for continious improvement), I value growth-mindset; there is always room for improvement and mistakes are mere learning opportunities.
+    - <u>Identify any gaps or areas for further exploration.</u> I would like to explore their work dynamic between employees and employers abit more. As well as Back-end Development in the future. 
 
 ### Part 3: SMART Career Goals
 
@@ -53,6 +54,11 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     - List your specific, measurable, achievable, relevant, and time-bound goals.
     - Explain the rationale behind each goal.
+    - Specific:
+    - Measurable:
+    - Achievable:
+    - Relevant:
+    - Time-bound: 
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
