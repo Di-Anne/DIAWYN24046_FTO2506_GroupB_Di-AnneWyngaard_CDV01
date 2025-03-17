@@ -67,9 +67,9 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal: Submit all challenges in the week and not the weekend so that I can ask questions in the coaching sessions. Submitting on time will assist with achieving the end goal, keeping track with lesson plan and google calendar. Goal: score 80% and above for challenges and aim for 80% for big projects.
-    - Include any resources or support required: Constant practice. The mistake I made recently is studying this course as I did with my science diploma. But Software Development is all about practice. Thus I will aim for more practice and meet-ups on campus for new ways to tackle problems.
-    
+    - <u>Detail specific actions or steps needed to achieve each short-term goal:</u> Submit all challenges in the week and not the weekend so that I can ask questions in the coaching sessions. Submitting on time will assist with achieving the end goal, keeping track with lesson plan and google calendar. Goal: score 80% and above for challenges and aim for 80% for big projects.
+    - <u>Include any resources or support required:</u> Constant practice. Use SCIMBA, the interactive games more than reading the theory. The mistake I made recently as studying this course as I did my marine science diploma. But Software Development is all about practice. Thus, I will aim for more practice and physical meet-ups on campus for new ways to tackle problems.
+
 2. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
