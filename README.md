@@ -25,12 +25,16 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Skills Analysis**:
     
-    - List your c.
-    - Identify skills you need to develop or improve.
+    - <u>Current skills and areas of expertise:</u> 
+    1. Git and GitHub: Cloning, downloading, and forking a repository, managing changes with Git using Git commands. 
+    2.HTML5: built a basic Catportfolio HTML document using HTML5 boilerplate, structural tags, link tags, text formatting tags, and self-closing tags with their attributes. 
+    3.CSS: CSS basics which includes selectors, properties, values and linking CSS to HTML document. CSS pseudo-classes, pseudo-elements, attribute selectors, CSS animations, layout with CSS using Flexbox and Grid. Awarded a certificate of completion on Scrimba for their Flexbox course.
+    - <u>Skills I need to develop or improve:</u> Applying CSS well is a big challenge, more specifically CSS animations, CSS layout using Flexbox and Grid, media queries and how to create designs that adapt to different screen sizes. I need much more practice with CSS.
+
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - <u>What interest me?</u> Its too soon to tell what interests me as the field of software development is broad (back-end, front-end, full-stack) and I have recently begun my journey in the Tech industry. But so far, my interest lies in creating simple web pages. I enjoy struggling and solving code for web pages because I can immediately see my creation come to life which is rewarding and encouriging. It is the oposite of monotonous work which I hate. The effort of solving gives me sort of a thrill; its a love-hate relationship. I enjoyed mathematics in high school and I see similarities with software development. But designing web pages with advanced CSS and layouts is quite complex for me and I dont enjoy it because I struggle with it alot and it becomes discouraging. However, I just started learning CSS thus my mind might change at a later stage once I get the hang of it after having practiced it abit more.
+    - <u>What values are important to me in a work environment?</u> I was diagnosed with ADHD and anxiety which I take medication for. So its very important for me to be in a workspace that is supportive, serene and empowering. It should be a workplace that is committed to employee well-being (mental and physical health).
 
 ### Part 2: Career Exploration Insights
 
