@@ -26,9 +26,9 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Skills Analysis**:
     
     - <u>Current skills and areas of expertise:</u> 
-    1. Git and GitHub: Cloning, downloading, and forking a repository, managing changes with Git using Git commands. 
-    2.HTML5: built a basic Catportfolio HTML document using HTML5 boilerplate, structural tags, link tags, text formatting tags, and self-closing tags with their attributes. 
-    3.CSS: CSS basics which includes selectors, properties, values and linking CSS to HTML document. CSS pseudo-classes, pseudo-elements, attribute selectors, CSS animations, layout with CSS using Flexbox and Grid. Awarded a certificate of completion on Scrimba for their Flexbox course.
+    Git and GitHub: Cloning, downloading, and forking a repository, managing changes with Git using Git commands. 
+    HTML5: built a basic Catportfolio HTML document using HTML5 boilerplate, structural tags, link tags, text formatting tags, and self-closing tags with their attributes. 
+    CSS: CSS basics which includes selectors, properties, values and linking CSS to HTML document. CSS pseudo-classes, pseudo-elements, attribute selectors, CSS animations, layout with CSS using Flexbox and Grid. Awarded a certificate of completion on Scrimba for their Flexbox course.
     - <u>Skills I need to develop or improve:</u> Applying CSS well is a big challenge, more specifically CSS animations, CSS layout using Flexbox and Grid, media queries and how to create designs that adapt to different screen sizes. I need much more practice with CSS.
 
 2. **Interests and Values**:
