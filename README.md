@@ -46,30 +46,30 @@ By completing this reflection, you will gain a clearer understanding of your car
 2. **Alignment with Personal Profile**:
     
     - <u>How do these industries/ roles align with my skills, interests, and values?</U> <i>Softserve</i> piqued my interest because I will have an opportunity to iether go into mobile app development, software application development or building websites which is what I am learning at CodeSpace. After completing the course, I will have skills in HTML, CSS, and JavaScript which is needed to land a Junior Software Development role. I tend to hyperfocus as a result of my ADHD which can be a strength that can be used as a powerful tool for tackling complex problems in the Software Development role thus sometimes I tend to leave a piece of my soul on any work that I do. I am interested in creating web pages as I enjoy seeing my creation come to life in a beautiful layout. <i>Softserve</i> has good values which matches mine. Namely, Meraki which is japanese for leave a piece of your soul. They believe in striving for excellence in every project they do and have good reviews from clients for this value. They also value philotimo (japanese for deep love of community) and I strongly value a workspace that embodies this especially given my mental health. Another value is Kaizen (japanese for continious improvement), I value growth-mindset; there is always room for improvement and mistakes are mere learning opportunities.
-    - <u>Identify any gaps or areas for further exploration.</u> I would like to explore their work dynamic between employees and employers abit more. As well as Back-end Development in the future. 
+    - <u>Identify any gaps or areas for further exploration.</u> I would like to explore their work dynamic between employees and employers abit more. As well as Back-end Development to see if its something I might prefer. 
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
-    
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
-    - Specific:
-    - Measurable:
-    - Achievable:
-    - Relevant:
-    - Time-bound: 
+    SMART GOAL:
+    - Specific: 75% Average for CodeSpace Software Development course because I want to land a Junior Developer role by next year latest.
+    - Measurable: Submit all challenges in the week and not the weekend so that I can ask questions in the coaching sessions. Submitting on time will assist with achieving the end goal, keeping track with lesson plan and google calendar. Goal: score 80% and above for challenges and aim for 80% for big projects.
+    - Achievable: Currently, I am quite behind with my course work but there is still time to make up for it because we have only submitted 3 challenges and still have many left to do, including big projects which count the most.
+    - Relevant: 75% Average for CodeSpace Software Development course will aid in job opportunities 
+    - Time-bound: 75% average by end of course (June). And start applying for jobs this year to land a Junior Developer role at early next year.
+
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - Outline your long-term career aspirations: Further my studies and specialise which will aid in a higher level salary and more job opportunities. Whether it be in Backend Development or Frontend Development. There are good courses at CodeSpace and AIE.
+    - Describe how these align with your interests and skills: CodeSpace has given me a good foundation on frontend development and abit of backend thus I have the basic skills which I can use as good foundation when specialising at another institution. 
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - Detail specific actions or steps needed to achieve each short-term goal: Submit all challenges in the week and not the weekend so that I can ask questions in the coaching sessions. Submitting on time will assist with achieving the end goal, keeping track with lesson plan and google calendar. Goal: score 80% and above for challenges and aim for 80% for big projects.
+    - Include any resources or support required: Constant practice. The mistake I made recently is studying this course as I did with my science diploma. But Software Development is all about practice. Thus I will aim for more practice and meet-ups on campus for new ways to tackle problems.
+    
 2. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
