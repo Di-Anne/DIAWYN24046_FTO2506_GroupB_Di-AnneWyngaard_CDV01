@@ -16,16 +16,16 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name: Di-Anne Wyngaard**
+- **Date: 16 March 2025**
+- **Current Role/Position: Full-time student**
+- **Field of Interest: Software Development**
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
+    - List your c.
     - Identify skills you need to develop or improve.
 2. **Interests and Values**:
     
