@@ -79,8 +79,9 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - <u>Identify potential obstacles or challenges in reaching your goals:</u> Time-management and perfectionism is my biggest struggle. I tend to over-focus and study hard, not prioritising which wastes time causing me to be behind and miss deadlines which in turn results in anxiety which causes me to be even less productive.
+    - <u>Consider strategies to overcome these challenges:</u> I started ADHD medication when I started this course. I plan to exercise to calm myself and have accountability partners in my class to help keep me on track and to prioritise the topics within the content so I can submit on time and get the desired marks to reach my end goals.
+    
 2. **Opportunities for Growth**:
     
     - Highlight any opportunities you can leverage for career growth.
