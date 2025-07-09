@@ -55,21 +55,21 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Short-term Goals** (Next 1-2 years):
     - <ins>Specific:</ins> Graduate with a distinction because I want to increase my chances of landing a Junior Developer role.
     - <ins>Measurable:</ins> Score 80% and above for most challenges and aim for 80% for portfolio pieces and final project.
-    - <ins>Achievable:</ins> Submit all challenges before the weekend so that I can ask questions in the coaching sessions to achieve a higher result for submissions. Use lesson plan and google calendar to stay on track with studies because being behind with work could result in missed deadlines and later graduation. More code practice outside of the scope of my course and gain insight from friends currently in the software engineering field.
+    - <ins>Achievable:</ins> Use CodeSpace resources and coach support to stay on track with studies because being behind with work could result in missed deadlines/ poor marks and later graduation. 
     - <ins>Relevant:</ins> Graduating with a distinction for the CodeSpace Software Development course will aid in finding a job. 
     - <ins>Time-bound:</ins> Graduate on the 12th December 2025. Then start applying for jobs to land a Junior Developer role early next year.
 
 2. **Long-term Goals** (3-5 years and beyond):
     
     - <ins>Long-term career aspirations:</ins> To further my studies and specialise in a particular field which will aid in a higher level salary and more job opportunities. Whether it be in backend development or frontend development. There are good courses at CodeSpace and AIE.
-    - <ins>How does this align with my interests and skills:</ins> CodeSpace has given me a good foundation on frontend development and abit of backend thus I have the basic skills which is a good foundation when wanting to study further for a degree and/ or specialising in the furture at another institution. 
+    - <ins>How does this align with my interests and skills:</ins> CodeSpace has given me a good foundation on frontend development and abit of backend thus I have the basic skills which is a good foundation when wanting to study further for a degree and/ or specialising in the future at another institution. 
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Specific actions or steps needed to achieve each short-term goal: Submit all challenges in the week and not the weekend so that I can ask questions in the coaching sessions. Submitting on time will assist with achieving the end goal, keeping track with lesson plan and google calendar. Goal: score 80% and above for challenges and aim for 80% for big projects.
-    - Resources or support required: Constant practice. Use SCIMBA, the interactive games more than reading the theory. The mistake I made recently as studying this course as I did my marine science diploma. But Software Development is all about practice. Thus, I will aim for more practice and physical meet-ups on campus for new ways to tackle problems.
+    - <ins>Specific actions or steps needed to achieve each short-term goal:</ins> Submit all challenges before the weekend so that I can ask questions in the coaching sessions to achieve a higher result for submissions. Use the lesson plan in conjunction with the google calendar and Learning Mangement System (LMS) to stay on track with my studies.
+    - <ins>Resources or support required:</ins> Constant practice. Spend more time practicing rather than reading. Use SCIMBA, the interactive games like CSS GridGarden, Flexbox Zombies. Include code practice outside of the scope of my course and gain insight from friends currently in the software engineering field- more practice seperate projects will increase my undersdtanding and memorisation of concepts covered in the CodeSpace course. Opt for peer-learning and on-campus meet-ups, as they could broaden my understanding of concepts, keep me on track and help me submit challenges more quickly when collaborating with my peers. 
 
 2. **Preparation for Long-term Goals**:
     
