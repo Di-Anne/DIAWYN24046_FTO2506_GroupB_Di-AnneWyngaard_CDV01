@@ -61,8 +61,8 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Long-term career aspirations: Further my studies and specialise which will aid in a higher level salary and more job opportunities. Whether it be in Backend Development or Frontend Development. There are good courses at CodeSpace and AIE.
-    - How does this align with my interests and skills: CodeSpace has given me a good foundation on frontend development and abit of backend thus I have the basic skills which I can use as good foundation when specialising at another institution. 
+    - <ins>Long-term career aspirations:</ins> To further my studies and specialise in a particular field which will aid in a higher level salary and more job opportunities. Whether it be in backend development or frontend development. There are good courses at CodeSpace and AIE.
+    - <ins>How does this align with my interests and skills:</ins> CodeSpace has given me a good foundation on frontend development and abit of backend thus I have the basic skills which is a good foundation when wanting to study further for a degree and/ or specialising in the furture at another institution. 
 
 ### Part 4: Action Plan
 
