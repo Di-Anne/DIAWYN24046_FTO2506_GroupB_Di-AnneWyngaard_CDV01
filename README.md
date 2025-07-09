@@ -80,8 +80,8 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Anticipated Challenges**:
     
-    - Potential obstacles or challenges in reaching my goals: Time-management and perfectionism is my biggest struggle. I tend to over-focus and study hard, not prioritising which wastes time causing me to be behind and miss deadlines which in turn results in anxiety which causes me to be even less productive.
-    - Strategies to overcome these challenges: I started ADHD medication when I started this course. I plan to exercise to calm myself and have accountability partners in my class to help keep me on track and to prioritise the topics within the content so I can submit on time and get the desired marks to reach my end goals.
+    - <ins>Potential obstacles or challenges in reaching my goals:</ins> Time-management and perfectionism is my biggest struggle. I tend to study hard and over-focus on everything all at once instead of breaking my work into smaller pieces and prioritising the important concepts for now. This wastes time causing me to be behind and miss deadlines which in turn results in anxiety which causes me to be even less productive and efficient.
+    - <ins>Strategies to overcome these challenges:</ins> I use task management tools and time-tracking software to help me manage my time and break my tasks/ studies into smaller manageable pieces everyday. I eat a healthy diet, take ADHD medication, supplements (omega 3, 6 & 9, multivitamin and magnesium effervescent) and exercise regularly which helps mitigate my ADHD symptoms and anxiety. Managing my ADHD and anxiety symptoms will help me stay on track with my studies and achieve my career goals.
 
 2. **Opportunities for Growth**:
     
