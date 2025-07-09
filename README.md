@@ -19,7 +19,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 - **Name: Di-Anne Wyngaard**
 - **Date: 9 June 2025**
 - **Current Role/Position: Full-time Software Developement student**
-- **Field of Interest: Frontend Development**
+- **Field of Interest: Front-end Development**
 
 ### Part 1: Self-Assessment Reflection
 
@@ -35,7 +35,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 2. **Interests and Values**:
     
-    - Its too soon to tell what interests me as the field of software development is broad (back-end, front-end, full-stack) and I have recently begun my journey in the Tech industry. But so far, my interest lies in creating simple web pages. I enjoy struggling and solving code for web pages because I can immediately see my creation come to life which is rewarding and encouriging. It is the oposite of monotonous work which I hate. The effort of solving gives me sort of a thrill; its a love-hate relationship. I enjoyed mathematics in high school and I see similarities with software development. But designing web pages with advanced CSS and layouts is quite complex for me and I dont enjoy it because I struggle with it alot and it becomes discouraging. However, I just started learning CSS thus my mind might change at a later stage once I get the hang of it after having practiced it abit more.
+    - Its too soon to say what interests me most as the field of software development is quite broad (back-end, front-end, full-stack etc.). I have recently started my journey in the tech industry, and so far, I am leaning towards front-end development. I enjoy wrestling with code to create vibrant web pages because I am naturally creative and it's incredibly rewarding and encouraging to see my creations come to life instantly. This field gives my ADHD brain the stimulation it craves because not only is it creative but it also involves constantly learning new things and once a problem is solved, there is always a brand new one to tackle- it is a continuous cycle of dopamine rush. It is the oposite of monotonous work which I dislike and struggle to sustain. I enjoyed mathematics in high school and I see clear similarities between mathematics and software development. 
     - Values that are important to me in a work environment: I was diagnosed with ADHD and anxiety which I take medication for. So its very important for me to be in a workspace that is supportive, serene and empowering. It should be a workplace that is committed to employee well-being (mental and physical health). I value an environment that embraces the growth-mindset. 
 
 ### Part 2: Career Exploration Insights
