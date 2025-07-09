@@ -25,10 +25,13 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Skills Analysis**:
     
-    - Git, GitHub and VSCode: Initialising a git repository, basic Git workflow using Git commands (tracking changes locally). Working with GitHub which includes setting up a remote repository on GitHub and connecting a local repository to GitHub. Pushing changes from local repository to GitHub. Forking, cloning and downloading an existing remote repository. Using text editor VSCode for writing and managing code. 
+    - <ins>Current skills:</ins> 
+    Git, GitHub and VSCode: Initialising a git repository, basic Git workflow using Git commands (tracking changes locally). Working with GitHub which includes setting up a remote repository on GitHub and connecting a local repository to GitHub. Pushing changes from local repository to GitHub. Forking, cloning and downloading an existing remote repository. Using text editor VSCode for writing and managing code. 
     HTML5: HTML Boilerplate, naming conventions using elements, tags and attributes, HTML semantics, hyperlinks, accessibility and embedding, organising content using tables and lists.
     CSS3: CSS basics which includes linking CSS to a HTML document, CSS syntax and structure, CSS selectors, the box model, basic styling with fonts and colors, CSS positioning, CSS specificity and inheritance, combining selectors in CSS, CSS pseudo-classes, pseudo-elements.
-    - Skills I need to improve: applying CSS well is a big challenge, more specifically CSS animations, CSS layout using Flexbox and Grid, media queries and how to create designs that adapt to different screen sizes. I need much more practice with CSS.
+    - Ability to hyperfocus and creative problem-solving: ADHD leads me to intense periods of productivity and deep work. Along with my ability to think outside the box and solve complex problems. My strongest subjects in high school were mathematics and physics.
+    - <ins>Skills I need to improve:</ins> Applying CSS well is a big challenge. More specifically, CSS animations, layout using Flexbox and Grid, media queries and how to create designs that adapt to different screen sizes. I need much more practice with CSS.
+    - Time management and prioritisation: ADHD results in executive dysfunction. Therefore, I struggle with time management leading to missed deadlines and unfinished projects. 
 
 2. **Interests and Values**:
     
