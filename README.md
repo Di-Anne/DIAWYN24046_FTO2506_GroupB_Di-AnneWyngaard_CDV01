@@ -81,11 +81,12 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Anticipated Challenges**:
     
     - <ins>Potential obstacles or challenges in reaching my goals:</ins> Time-management and perfectionism is my biggest struggle. I tend to study hard and over-focus on everything all at once instead of breaking my work into smaller pieces and prioritising the important concepts for now. This wastes time causing me to be behind and miss deadlines which in turn results in anxiety which causes me to be even less productive and efficient.
-    - <ins>Strategies to overcome these challenges:</ins> I use task management tools and time-tracking software to help me manage my time and break my tasks/ studies into smaller manageable pieces everyday. I eat a healthy diet, take ADHD medication, supplements (omega 3, 6 & 9, multivitamin and magnesium effervescent) and exercise regularly which helps mitigate my ADHD symptoms and anxiety. Managing my ADHD and anxiety symptoms will help me stay on track with my studies and achieve my career goals.
+    - <ins>Strategies to overcome these challenges:</ins> I use task management tools and time-tracking software to help me manage my time and break my tasks/ studies into smaller manageable pieces everyday. I eat a balanced non-processed diet, take ADHD medication, supplements (omega 3, 6 & 9, multivitamin and magnesium effervescent) and exercise regularly which helps mitigate my ADHD symptoms and anxiety. Managing my ADHD symptoms and anxiety will help me stay on track with my studies and achieve my career goals.
 
 2. **Opportunities for Growth**:
     
-    - CodeSpace offers workshops and networking opportunities which could help broaden my knowledge and job opportunities within the Tech industry.
+    - CodeSpace offers workshops and networking opportunities that can broaden my knowledge and understanding of the tech industry and software development, while also providing potential job opportunities within the field.
+    - I have many friends and family members who work in software engineering. I can use this opportunity to gain more insight into the field, and they can also prepare me by sharing do's and dont's as well as setting expectations, for example, interview preparation.
 
 ### Submission
 
