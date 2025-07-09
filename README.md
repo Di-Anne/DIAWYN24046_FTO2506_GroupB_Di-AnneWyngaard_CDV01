@@ -85,7 +85,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 2. **Opportunities for Growth**:
     
-    - CodeSpace offers workshops and networking opportunities that can broaden my knowledge and understanding of the tech industry and software development, while also providing potential job opportunities within the field.
+    - CodeSpace offers workshops and networking opportunities which can broaden my knowledge and understanding of the tech industry and software development, while also providing potential job opportunities within the field.
     - I have many friends and family members who work in software engineering. I can use this opportunity to gain more insight into the field, and they can also prepare me by sharing do's and dont's as well as setting expectations, for example, interview preparation.
 
 ### Submission
