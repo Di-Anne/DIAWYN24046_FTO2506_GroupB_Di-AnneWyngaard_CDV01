@@ -53,12 +53,11 @@ By completing this reflection, you will gain a clearer understanding of your car
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
-    SMART GOAL:
-    - Specific: 75% Average for CodeSpace Software Development course because I want to land a Junior Developer role by next year latest.
-    - Measurable: Submit all challenges in the week and not the weekend so that I can ask questions in the coaching sessions. Submitting on time will assist with achieving the end goal, keeping track with lesson plan and google calendar. Goal: score 80% and above for challenges and aim for 80% for big projects.
-    - Achievable: Currently, I am quite behind with my course work but there is still time to make up for it because we have only submitted 3 challenges and still have many left to do, including big projects which count the most.
-    - Relevant: 75% Average for CodeSpace Software Development course will aid in job opportunities 
-    - Time-bound: 75% average by end of course (June). And start applying for jobs this year to land a Junior Developer role at early next year.
+    - <ins>Specific:</ins> Graduate with a distinction because I want to increase my chances of landing a Junior Developer role.
+    - <ins>Measurable:</ins> Score 80% and above for most challenges and aim for 80% for portfolio pieces and final project.
+    - <ins>Achievable:</ins> Submit all challenges before the weekend so that I can ask questions in the coaching sessions to achieve a higher result for submissions. Use lesson plan and google calendar to stay on track with studies because being behind with work could result in missed deadlines and later graduation. More code practice outside of the scope of my course and gain insight from friends currently in the software engineering field.
+    - <ins>Relevant:</ins> Graduating with a distinction for the CodeSpace Software Development course will aid in finding a job. 
+    - <ins>Time-bound:</ins> Graduate on the 12th December 2025. Then start applying for jobs to land a Junior Developer role early next year.
 
 2. **Long-term Goals** (3-5 years and beyond):
     
