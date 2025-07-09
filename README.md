@@ -17,9 +17,9 @@ By completing this reflection, you will gain a clearer understanding of your car
 ### Personal Information
 
 - **Name: Di-Anne Wyngaard**
-- **Date: 16 March 2025**
-- **Current Role/Position: Full-time student**
-- **Field of Interest: Software Development**
+- **Date: 9 June 2025**
+- **Current Role/Position: Full-time Software Developement student**
+- **Field of Interest: Frontend Development**
 
 ### Part 1: Self-Assessment Reflection
 
