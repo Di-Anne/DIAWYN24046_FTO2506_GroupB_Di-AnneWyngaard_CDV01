@@ -42,7 +42,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Industries and Roles Explored**:
     
-    - Industries or roles I have researched: Softserve is a company based in Gauteng piqued my interest.
+    - Industries or roles I have researched: Softserve is a company based in Gauteng that piqued my interest.
     - Any particular areas that piqued my interest. This company specializes in mobile app development, software application development and building websites and have worked with big companies like Nike, Discovery, and Total Sports.
 
 2. **Alignment with Personal Profile**:
