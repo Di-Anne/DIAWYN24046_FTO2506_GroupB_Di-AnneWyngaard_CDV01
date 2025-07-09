@@ -27,7 +27,7 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     - Git, GitHub and VSCode: Initialising a git repository, basic Git workflow using Git commands (tracking changes locally). Working with GitHub which includes setting up a remote repository on GitHub and connecting a local repository to GitHub. Pushing changes from local repository to GitHub. Forking, cloning and downloading an existing remote repository. Using text editor VSCode for writing and managing code. 
     HTML5: HTML Boilerplate, naming conventions using elements, tags and attributes, HTML semantics, hyperlinks, accessibility and embedding, organising content using tables and lists.
-    CSS: CSS basics which includes selectors, properties, values and linking CSS to HTML document. CSS pseudo-classes, pseudo-elements, attribute selectors, CSS animations, layout with CSS using Flexbox and Grid. Awarded a certificate of completion on Scrimba for their Flexbox course.
+    CSS3: CSS basics which includes linking CSS to a HTML document, CSS syntax and structure, CSS selectors, the box model, basic styling with fonts and colors, CSS positioning, CSS specificity and inheritance, combining selectors in CSS, CSS pseudo-classes, pseudo-elements.
     - Skills I need to improve: applying CSS well is a big challenge, more specifically CSS animations, CSS layout using Flexbox and Grid, media queries and how to create designs that adapt to different screen sizes. I need much more practice with CSS.
 
 2. **Interests and Values**:
