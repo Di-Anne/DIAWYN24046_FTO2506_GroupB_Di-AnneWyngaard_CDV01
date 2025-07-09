@@ -25,7 +25,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Skills Analysis**:
     
-    - Git and GitHub: Cloning, downloading, and forking a repository, managing changes with Git using Git commands. 
+    - Git, GitHub and VSCode: Initialising a git repository, basic Git workflow using Git commands (tracking changes locally). Working with GitHub which includes setting up a remote repository on GitHub and connecting a local repository to GitHub. Pushing changes from local repository to GitHub. Forking, cloning and downloading an existing remote repository. Using text editor VSCode for writing and managing code. 
     HTML5: built a basic Catportfolio HTML document using HTML5 boilerplate, structural tags, link tags, text formatting tags, and self-closing tags with their attributes. 
     CSS: CSS basics which includes selectors, properties, values and linking CSS to HTML document. CSS pseudo-classes, pseudo-elements, attribute selectors, CSS animations, layout with CSS using Flexbox and Grid. Awarded a certificate of completion on Scrimba for their Flexbox course.
     - Skills I need to improve: applying CSS well is a big challenge, more specifically CSS animations, CSS layout using Flexbox and Grid, media queries and how to create designs that adapt to different screen sizes. I need much more practice with CSS.
