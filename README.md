@@ -73,8 +73,8 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 2. **Preparation for Long-term Goals**:
     
-    - Preparations or groundwork necessary for my long-term aspirations: I will need to achieve short-term goal and do well at CodeSpace, then land a Junior developer role which will provide financial aid in furthering my studies and specialising which in turn will allow more job opportunities and higher level salary.
-    - Additional skills, experiences, or qualifications needed: Qaulification at AIE or specialising qualification at CodeSpace.
+    - <ins>Preparations or groundwork necessary for my long-term aspirations:</ins> I will need to achieve my short-term goal to reach my long-term goal. My short-term goal involves graduating, this year, at CodeSpace and landing a Junior developer role early next year. This will provide financial aid in furthering my studies and specialising in a chosen field which will, in turn, lead to more job opportunities and a higher level salary.
+    - <ins>Additional skills, experiences, or qualifications needed:</ins> Qualification (NQFL 6 or 7) at AIE or specialising qualification at CodeSpace.
 
 ### Part 5: Reflection on Challenges and Opportunities
 
