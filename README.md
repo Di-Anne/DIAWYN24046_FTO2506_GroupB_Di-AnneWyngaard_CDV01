@@ -32,7 +32,7 @@ By completing this reflection, you will gain a clearer understanding of your car
     - Ability to hyperfocus and creative problem-solving: ADHD leads me to intense periods of productivity and deep work. Along with my ability to think outside the box and solve complex problems. My strongest subjects in high school were mathematics and physics.
     <ins>Skills I need to improve:</ins> 
     - Applying CSS well is a big challenge. More specifically, CSS animations, layout using Flexbox and Grid, media queries and how to create designs that adapt to different screen sizes. I need much more practice with CSS.
-    - Time management and prioritisation: ADHD results in executive dysfunction. Therefore, I struggle with time management leading to missed deadlines and unfinished projects. 
+    - Time management and prioritisation: ADHD results in executive dysfunction. Therefore, I struggle with time management leading to missed deadlines and unfinished projects in the past. This is my third time starting this Software Developer course. 
 
 2. **Interests and Values**:
     
@@ -48,8 +48,8 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 2. **Alignment with Personal Profile**:
     
-    - <ins>How do these industries/ roles align with my skills, interests, and values:</ins> Softserve piqued my interest because I will have an opportunity work in mobile app development, software application development or building websites. This is Front-end development which is what I am currently learning at CodeSpace and interested in. After completing the course, I will have skills in HTML, CSS, and JavaScript which is needed to land a Junior Software Development role. <i>Softserve</i> has good values which align with mine. They value <i>philotimo</i> which is japanese for deep love of community. I strongly value a workspace that is supportive especially given my mental health. <i>Kaizen</i> (japanese for continious improvement) which aligns with growth-mindset which I value. There is always room for improvement and mistakes are mere learning opportunities not final destinations.
-    - <ins>Gaps or areas for further exploration:</ins> I would like to explore their work dynamic between employees and employers abit more. As well as back-end Dbvelopment to see if its something I might prefer. 
+    - <ins>How do these industries/ roles align with my skills, interests, and values:</ins> <i>Softserve</i> piqued my interest because I will have an opportunity work in mobile app development, software application development or building websites. This is Front-end development which is what I am currently learning at CodeSpace and interested in. After completing the course, I will have skills in HTML, CSS, and JavaScript which is needed to land a Junior Software Development role. <i>Softserve</i> has good values which align with mine. They value <i>philotimo</i> which is japanese for deep love of community. I strongly value a workspace that is supportive especially given my mental health. <i>Kaizen</i> (japanese for continious improvement) which aligns with growth-mindset which I value. There is always room for improvement and mistakes are mere learning opportunities not final destinations.
+    - <ins>Gaps or areas for further exploration:</ins> I would like to explore their work dynamic between employees and employers abit more. As well as back-end Development to see if its something I might prefer. 
 
 ### Part 3: SMART Career Goals
 
